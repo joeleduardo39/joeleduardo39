@@ -7,7 +7,7 @@
     <br>
    <br> </br>
     - 🔭 Hoje trabalho com back-end. <br>
-    - 🌱 Estou me aperfeiçoando em Docker, AWS, Typescrip, HTML e CSS. <br>
+    - 🌱 Estou me aperfeiçoando em Docker, AWS, Typescript, HTML e CSS. <br>
     - 🎥 No tempo livre gosto de assistir filmes e séries. <br> 
     - 🥇 Apaixonado por esportes. <br>
     - 💻 Apaixonado por Tecnologia e desafios. <br>
