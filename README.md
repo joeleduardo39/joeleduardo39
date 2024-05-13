@@ -4,7 +4,7 @@
     
     <br>
     Seja bem-vindo(a) !👋 Eu sou Joel Eduardo;
-    <br>
+    <br/>
    <br> </br>
     - 🔭 Hoje trabalho com back-end. <br>
     - 🌱 Estou me aperfeiçoando em Java, Kotlin e Android. <br>
