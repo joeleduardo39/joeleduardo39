@@ -1,7 +1,7 @@
 ### Olá Pessoal /Hi there !!! 👋
 
 <div style="display: inline_block"> 
-    <img src="https://user-images.githubusercontent.com/79178651/162600989-98d30b82-2aab-4ecc-b447-d34f18b257c5.png" align="right" width="260"> 
+    
     <br>
     Seja bem-vindo(a) !👋 Eu sou Joel Eduardo;
     <br>
