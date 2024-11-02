@@ -5,8 +5,7 @@
     Seja bem-vindo(a) !👋 Eu sou Joel Eduardo;
    
    <br> </br>
-    - 🔭 Hoje trabalho com back-end. <br>
-    - 🌱 Estou me aperfeiçoando em Java, Kotlin e Android. <br>
+    - 🌱 Estou me aperfeiçoando em Java e AWS. <br>
     - 🎥 No tempo livre gosto de assistir filmes e séries. <br> 
     - 🥇 Apaixonado por esportes. <br>
     - 💻 Apaixonado por Tecnologia e desafios. <br>
